@@ -36,10 +36,9 @@ Due to GitHub’s limitations, interactive Plotly charts aren't viewable directl
 
 ---
 
-## 💡 Key Highlights
+## Key Highlights
 
-- ✅ Fetched and processed historical stock data from Yahoo Finance
-- ✅ Cleaned and formatted scraped revenue data
-- ✅ Built a reusable function `make_graph()` to visualize both datasets in a dual-subplot format
-- ✅ Exported graphs to browser and saved screenshots for sharing
-- ✅ Organized all outputs for easy navigation
+- Fetched and processed historical stock data from Yahoo Finance
+- Cleaned and formatted scraped revenue data
+- Built a reusable function `make_graph()` to visualize both datasets in a dual-subplot format
+- Organized all outputs for easy navigation
